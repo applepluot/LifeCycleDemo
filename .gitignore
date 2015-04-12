@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+*.class
+*.dex
+bin/
+gen/
+/*/build
+proguard/
+*.log
+/.idea/*
